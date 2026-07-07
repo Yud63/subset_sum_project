@@ -17,7 +17,7 @@ Cho một dãy số nguyên dương `nums` và một số nguyên `target`, hỏ
 | 3 |Dynamic Programming(Quy hoạch động)|`algorithms/dynamic_programming.py`| O(n · target) (giả đa thức)           |O(n·target)           |
 | 4 |Meet in the Middle(Chia để trị)    |`algorithms/meet_in_middle.py`     | O(2^(n/2) · n)                        |O(2^(n/2))            |
 
-Mỗi file thuật toán đều có docstring giải thích chi tiết ý tưởng, công thức, độ phức tạp, ưu/nhược điểm — có thể dùng trực tiếp làm nội dung cho phần "Cài đặt thuật toán" trong tiểu luận.
+Mỗi file thuật toán đều có docstring giải thích chi tiết ý tưởng, công thức, độ phức tạp, ưu/nhược điểm - có thể dùng trực tiếp làm nội dung cho phần "Cài đặt thuật toán" trong tiểu luận.
 
 ## 3. Cấu trúc thư mục
 
