@@ -1,0 +1,9 @@
+n,algorithm,avg_time_seconds
+14,Dynamic Programming,4.215552800102159
+14,Meet in the Middle,0.0004889999981969595
+16,Dynamic Programming,2.8218757999129593
+16,Meet in the Middle,0.0009665000252425671
+18,Dynamic Programming,7.045994400046766
+18,Meet in the Middle,0.002690899884328246
+20,Dynamic Programming,4.899481500033289
+20,Meet in the Middle,0.005671299993991852
